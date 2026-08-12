@@ -1,0 +1,5 @@
+﻿Validation_Area,Check_Name,Status,Message,Actual_Value,Expected_Value
+Business Rule,Expected Return Remains Categorical,PASS,Expected Return values remain categorical ranges rather than artificial numeric averages.,"['20%-30%', '10%-20%', '30%-40%']",Categorical ranges
+Business Rule,Gender Uses Valid Respondent Counts,PASS,Respondent counts are numeric and non-negative.,25,>= 0
+Business Rule,Age Uses Valid Respondent Counts,PASS,Respondent counts are numeric and non-negative.,31,>= 0
+Business Rule,Objective Uses Valid Respondent Counts,PASS,Respondent counts are numeric and non-negative.,26,>= 0

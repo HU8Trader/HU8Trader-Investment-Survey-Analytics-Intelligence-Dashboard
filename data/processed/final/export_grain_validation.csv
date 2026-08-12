@@ -1,0 +1,5 @@
+﻿Check,Status,Details
+Respondent Grain,PASS,One row per Respondent_ID.
+Investment Grain,PASS,One row per Respondent_ID × Investment_Type.
+Preference Rank Logic,PASS,Preference Rank follows 1 = Highest and 7 = Lowest.
+Expected Return Representation,PASS,Expected_Return_Range preserved as categorical/text data. No artificial average calculated. Detected dtype: string.

@@ -1,0 +1,2 @@
+﻿Export_Timestamp,Unique_Respondents,Respondent_Rows,Investment_Rows,Investment_Types,Datasets_Exported,Business_Metrics_Status,Validation_Status,Export_Directory,Encoding,Preference_Rule,Expected_Return_Rule
+2026-08-12 13:54:36,40,40,280,7,26,AVAILABLE,PASS,C:\Users\pc\Documents\HiLyst DataSets\HU Internship Project\Python Version Investement Survey\data\processed\final,utf-8-sig,1 = Highest Preference; 7 = Lowest Preference; Lower Average Preference Rank = Stronger Preference,Expected return ranges preserved as categorical values; no artificial average calculated.

@@ -1,0 +1,29 @@
+﻿Information_Source,Investment_Type,Unique_Respondents,Average_Preference_Rank,Category_Preference_Rank
+Financial Consultants,Debenture,16,6.06,6
+Financial Consultants,Equity,16,3.81,4
+Financial Consultants,Fixed Deposit,16,3.0,3
+Financial Consultants,Gold,16,6.06,6
+Financial Consultants,Government Bond,16,4.81,5
+Financial Consultants,Mutual Fund,16,2.69,2
+Financial Consultants,PPF,16,1.56,1
+Internet,Debenture,4,3.25,3
+Internet,Equity,4,2.25,1
+Internet,Fixed Deposit,4,4.5,5
+Internet,Gold,4,5.25,6
+Internet,Government Bond,4,5.75,7
+Internet,Mutual Fund,4,3.0,2
+Internet,PPF,4,4.0,4
+Newspapers and Magazines,Debenture,14,6.29,7
+Newspapers and Magazines,Equity,14,3.29,3
+Newspapers and Magazines,Fixed Deposit,14,3.79,4
+Newspapers and Magazines,Gold,14,6.0,6
+Newspapers and Magazines,Government Bond,14,4.36,5
+Newspapers and Magazines,Mutual Fund,14,2.21,2
+Newspapers and Magazines,PPF,14,2.07,1
+Television,Debenture,6,5.33,6
+Television,Equity,6,3.83,3
+Television,Fixed Deposit,6,4.0,4
+Television,Gold,6,6.17,7
+Television,Government Bond,6,4.17,5
+Television,Mutual Fund,6,2.67,2
+Television,PPF,6,1.83,1

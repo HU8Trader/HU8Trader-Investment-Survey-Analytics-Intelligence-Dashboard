@@ -1,0 +1,281 @@
+Respondent_ID,Investment_Type_Raw,Preference_Rank,Investment_Type,Preference_Level,Investment_Record_Count,Investment_Key
+1,Mutual_Funds,1.0,Mutual Fund,Highest Preference,7,mutual_fund
+1,Equity_Market,2.0,Equity,High Preference,7,equity
+1,Government_Bonds,3.0,Government Bond,Moderate Preference,7,government_bond
+1,Gold,4.0,Gold,Moderate Preference,7,gold
+1,Debentures,5.0,Debenture,Moderate Preference,7,debenture
+1,PPF,6.0,PPF,Low Preference,7,ppf
+1,Fixed_Deposits,7.0,Fixed Deposit,Lowest Preference,7,fixed_deposit
+2,Government_Bonds,1.0,Government Bond,Highest Preference,7,government_bond
+2,Debentures,2.0,Debenture,High Preference,7,debenture
+2,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+2,Mutual_Funds,4.0,Mutual Fund,Moderate Preference,7,mutual_fund
+2,Fixed_Deposits,5.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+2,PPF,6.0,PPF,Low Preference,7,ppf
+2,Gold,7.0,Gold,Lowest Preference,7,gold
+3,PPF,1.0,PPF,Highest Preference,7,ppf
+3,Government_Bonds,2.0,Government Bond,High Preference,7,government_bond
+3,Mutual_Funds,3.0,Mutual Fund,Moderate Preference,7,mutual_fund
+3,Debentures,4.0,Debenture,Moderate Preference,7,debenture
+3,Fixed_Deposits,5.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+3,Equity_Market,6.0,Equity,Low Preference,7,equity
+3,Gold,7.0,Gold,Lowest Preference,7,gold
+4,Equity_Market,1.0,Equity,Highest Preference,7,equity
+4,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+4,Debentures,3.0,Debenture,Moderate Preference,7,debenture
+4,PPF,4.0,PPF,Moderate Preference,7,ppf
+4,Gold,5.0,Gold,Moderate Preference,7,gold
+4,Fixed_Deposits,6.0,Fixed Deposit,Low Preference,7,fixed_deposit
+4,Government_Bonds,7.0,Government Bond,Lowest Preference,7,government_bond
+5,Equity_Market,1.0,Equity,Highest Preference,7,equity
+5,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+5,Debentures,3.0,Debenture,Moderate Preference,7,debenture
+5,Fixed_Deposits,4.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+5,PPF,5.0,PPF,Moderate Preference,7,ppf
+5,Government_Bonds,6.0,Government Bond,Low Preference,7,government_bond
+5,Gold,7.0,Gold,Lowest Preference,7,gold
+6,PPF,1.0,PPF,Highest Preference,7,ppf
+6,Gold,2.0,Gold,High Preference,7,gold
+6,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+6,Debentures,4.0,Debenture,Moderate Preference,7,debenture
+6,Equity_Market,5.0,Equity,Moderate Preference,7,equity
+6,Government_Bonds,6.0,Government Bond,Low Preference,7,government_bond
+6,Mutual_Funds,7.0,Mutual Fund,Lowest Preference,7,mutual_fund
+7,PPF,1.0,PPF,Highest Preference,7,ppf
+7,Government_Bonds,2.0,Government Bond,High Preference,7,government_bond
+7,Mutual_Funds,3.0,Mutual Fund,Moderate Preference,7,mutual_fund
+7,Debentures,4.0,Debenture,Moderate Preference,7,debenture
+7,Fixed_Deposits,5.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+7,Equity_Market,6.0,Equity,Low Preference,7,equity
+7,Gold,7.0,Gold,Lowest Preference,7,gold
+8,PPF,1.0,PPF,Highest Preference,7,ppf
+8,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+8,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+8,Government_Bonds,4.0,Government Bond,Moderate Preference,7,government_bond
+8,Gold,5.0,Gold,Moderate Preference,7,gold
+8,Fixed_Deposits,6.0,Fixed Deposit,Low Preference,7,fixed_deposit
+8,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+9,PPF,1.0,PPF,Highest Preference,7,ppf
+9,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+9,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+9,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+9,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+9,Gold,6.0,Gold,Low Preference,7,gold
+9,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+10,Mutual_Funds,1.0,Mutual Fund,Highest Preference,7,mutual_fund
+10,PPF,2.0,PPF,High Preference,7,ppf
+10,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+10,Government_Bonds,4.0,Government Bond,Moderate Preference,7,government_bond
+10,Fixed_Deposits,5.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+10,Gold,6.0,Gold,Low Preference,7,gold
+10,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+11,PPF,1.0,PPF,Highest Preference,7,ppf
+11,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+11,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+11,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+11,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+11,Gold,6.0,Gold,Low Preference,7,gold
+11,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+12,PPF,1.0,PPF,Highest Preference,7,ppf
+12,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+12,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+12,Gold,4.0,Gold,Moderate Preference,7,gold
+12,Equity_Market,5.0,Equity,Moderate Preference,7,equity
+12,Government_Bonds,6.0,Government Bond,Low Preference,7,government_bond
+12,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+13,Mutual_Funds,1.0,Mutual Fund,Highest Preference,7,mutual_fund
+13,Equity_Market,2.0,Equity,High Preference,7,equity
+13,Debentures,3.0,Debenture,Moderate Preference,7,debenture
+13,Government_Bonds,4.0,Government Bond,Moderate Preference,7,government_bond
+13,Fixed_Deposits,5.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+13,PPF,6.0,PPF,Low Preference,7,ppf
+13,Gold,7.0,Gold,Lowest Preference,7,gold
+14,PPF,1.0,PPF,Highest Preference,7,ppf
+14,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+14,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+14,Government_Bonds,4.0,Government Bond,Moderate Preference,7,government_bond
+14,Fixed_Deposits,5.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+14,Gold,6.0,Gold,Low Preference,7,gold
+14,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+15,PPF,1.0,PPF,Highest Preference,7,ppf
+15,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+15,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+15,Fixed_Deposits,4.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+15,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+15,Gold,6.0,Gold,Low Preference,7,gold
+15,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+16,PPF,1.0,PPF,Highest Preference,7,ppf
+16,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+16,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+16,Fixed_Deposits,4.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+16,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+16,Gold,6.0,Gold,Low Preference,7,gold
+16,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+17,PPF,1.0,PPF,Highest Preference,7,ppf
+17,Equity_Market,2.0,Equity,High Preference,7,equity
+17,Mutual_Funds,3.0,Mutual Fund,Moderate Preference,7,mutual_fund
+17,Fixed_Deposits,4.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+17,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+17,Gold,6.0,Gold,Low Preference,7,gold
+17,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+18,PPF,1.0,PPF,Highest Preference,7,ppf
+18,Equity_Market,2.0,Equity,High Preference,7,equity
+18,Mutual_Funds,3.0,Mutual Fund,Moderate Preference,7,mutual_fund
+18,Government_Bonds,4.0,Government Bond,Moderate Preference,7,government_bond
+18,Fixed_Deposits,5.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+18,Gold,6.0,Gold,Low Preference,7,gold
+18,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+19,PPF,1.0,PPF,Highest Preference,7,ppf
+19,Equity_Market,2.0,Equity,High Preference,7,equity
+19,Mutual_Funds,3.0,Mutual Fund,Moderate Preference,7,mutual_fund
+19,Government_Bonds,4.0,Government Bond,Moderate Preference,7,government_bond
+19,Fixed_Deposits,5.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+19,Gold,6.0,Gold,Low Preference,7,gold
+19,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+20,Fixed_Deposits,1.0,Fixed Deposit,Highest Preference,7,fixed_deposit
+20,PPF,2.0,PPF,High Preference,7,ppf
+20,Mutual_Funds,3.0,Mutual Fund,Moderate Preference,7,mutual_fund
+20,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+20,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+20,Debentures,6.0,Debenture,Low Preference,7,debenture
+20,Gold,7.0,Gold,Lowest Preference,7,gold
+21,PPF,1.0,PPF,Highest Preference,7,ppf
+21,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+21,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+21,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+21,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+21,Gold,6.0,Gold,Low Preference,7,gold
+21,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+22,PPF,1.0,PPF,Highest Preference,7,ppf
+22,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+22,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+22,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+22,Debentures,5.0,Debenture,Moderate Preference,7,debenture
+22,Government_Bonds,6.0,Government Bond,Low Preference,7,government_bond
+22,Gold,7.0,Gold,Lowest Preference,7,gold
+23,PPF,1.0,PPF,Highest Preference,7,ppf
+23,Fixed_Deposits,2.0,Fixed Deposit,High Preference,7,fixed_deposit
+23,Mutual_Funds,3.0,Mutual Fund,Moderate Preference,7,mutual_fund
+23,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+23,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+23,Debentures,6.0,Debenture,Low Preference,7,debenture
+23,Gold,7.0,Gold,Lowest Preference,7,gold
+24,PPF,1.0,PPF,Highest Preference,7,ppf
+24,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+24,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+24,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+24,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+24,Debentures,6.0,Debenture,Low Preference,7,debenture
+24,Gold,7.0,Gold,Lowest Preference,7,gold
+25,PPF,1.0,PPF,Highest Preference,7,ppf
+25,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+25,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+25,Fixed_Deposits,4.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+25,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+25,Gold,6.0,Gold,Low Preference,7,gold
+25,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+26,Fixed_Deposits,1.0,Fixed Deposit,Highest Preference,7,fixed_deposit
+26,PPF,2.0,PPF,High Preference,7,ppf
+26,Mutual_Funds,3.0,Mutual Fund,Moderate Preference,7,mutual_fund
+26,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+26,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+26,Gold,6.0,Gold,Low Preference,7,gold
+26,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+27,Fixed_Deposits,1.0,Fixed Deposit,Highest Preference,7,fixed_deposit
+27,PPF,2.0,PPF,High Preference,7,ppf
+27,Mutual_Funds,3.0,Mutual Fund,Moderate Preference,7,mutual_fund
+27,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+27,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+27,Debentures,6.0,Debenture,Low Preference,7,debenture
+27,Gold,7.0,Gold,Lowest Preference,7,gold
+28,PPF,1.0,PPF,Highest Preference,7,ppf
+28,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+28,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+28,Fixed_Deposits,4.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+28,Gold,5.0,Gold,Moderate Preference,7,gold
+28,Government_Bonds,6.0,Government Bond,Low Preference,7,government_bond
+28,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+29,Fixed_Deposits,1.0,Fixed Deposit,Highest Preference,7,fixed_deposit
+29,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+29,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+29,PPF,4.0,PPF,Moderate Preference,7,ppf
+29,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+29,Debentures,6.0,Debenture,Low Preference,7,debenture
+29,Gold,7.0,Gold,Lowest Preference,7,gold
+30,PPF,1.0,PPF,Highest Preference,7,ppf
+30,Government_Bonds,2.0,Government Bond,High Preference,7,government_bond
+30,Debentures,3.0,Debenture,Moderate Preference,7,debenture
+30,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+30,Mutual_Funds,5.0,Mutual Fund,Moderate Preference,7,mutual_fund
+30,Gold,6.0,Gold,Low Preference,7,gold
+30,Fixed_Deposits,7.0,Fixed Deposit,Lowest Preference,7,fixed_deposit
+31,Debentures,1.0,Debenture,Highest Preference,7,debenture
+31,Government_Bonds,2.0,Government Bond,High Preference,7,government_bond
+31,PPF,3.0,PPF,Moderate Preference,7,ppf
+31,Mutual_Funds,4.0,Mutual Fund,Moderate Preference,7,mutual_fund
+31,Equity_Market,5.0,Equity,Moderate Preference,7,equity
+31,Gold,6.0,Gold,Low Preference,7,gold
+31,Fixed_Deposits,7.0,Fixed Deposit,Lowest Preference,7,fixed_deposit
+32,PPF,1.0,PPF,Highest Preference,7,ppf
+32,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+32,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+32,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+32,Gold,5.0,Gold,Moderate Preference,7,gold
+32,Government_Bonds,6.0,Government Bond,Low Preference,7,government_bond
+32,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+33,Fixed_Deposits,1.0,Fixed Deposit,Highest Preference,7,fixed_deposit
+33,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+33,PPF,3.0,PPF,Moderate Preference,7,ppf
+33,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+33,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+33,Gold,6.0,Gold,Low Preference,7,gold
+33,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+34,Fixed_Deposits,1.0,Fixed Deposit,Highest Preference,7,fixed_deposit
+34,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+34,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+34,Government_Bonds,4.0,Government Bond,Moderate Preference,7,government_bond
+34,PPF,5.0,PPF,Moderate Preference,7,ppf
+34,Debentures,6.0,Debenture,Low Preference,7,debenture
+34,Gold,7.0,Gold,Lowest Preference,7,gold
+35,PPF,1.0,PPF,Highest Preference,7,ppf
+35,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+35,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+35,Fixed_Deposits,4.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+35,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+35,Debentures,6.0,Debenture,Low Preference,7,debenture
+35,Gold,7.0,Gold,Lowest Preference,7,gold
+36,Mutual_Funds,1.0,Mutual Fund,Highest Preference,7,mutual_fund
+36,PPF,2.0,PPF,High Preference,7,ppf
+36,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+36,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+36,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+36,Debentures,6.0,Debenture,Low Preference,7,debenture
+36,Gold,7.0,Gold,Lowest Preference,7,gold
+37,Fixed_Deposits,1.0,Fixed Deposit,Highest Preference,7,fixed_deposit
+37,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+37,PPF,3.0,PPF,Moderate Preference,7,ppf
+37,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+37,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+37,Gold,6.0,Gold,Low Preference,7,gold
+37,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+38,Fixed_Deposits,1.0,Fixed Deposit,Highest Preference,7,fixed_deposit
+38,PPF,2.0,PPF,High Preference,7,ppf
+38,Gold,3.0,Gold,Moderate Preference,7,gold
+38,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+38,Mutual_Funds,5.0,Mutual Fund,Moderate Preference,7,mutual_fund
+38,Government_Bonds,6.0,Government Bond,Low Preference,7,government_bond
+38,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+39,PPF,1.0,PPF,Highest Preference,7,ppf
+39,Mutual_Funds,2.0,Mutual Fund,High Preference,7,mutual_fund
+39,Fixed_Deposits,3.0,Fixed Deposit,Moderate Preference,7,fixed_deposit
+39,Equity_Market,4.0,Equity,Moderate Preference,7,equity
+39,Government_Bonds,5.0,Government Bond,Moderate Preference,7,government_bond
+39,Gold,6.0,Gold,Low Preference,7,gold
+39,Debentures,7.0,Debenture,Lowest Preference,7,debenture
+40,PPF,1.0,PPF,Highest Preference,7,ppf
+40,Fixed_Deposits,2.0,Fixed Deposit,High Preference,7,fixed_deposit
+40,Equity_Market,3.0,Equity,Moderate Preference,7,equity
+40,Mutual_Funds,4.0,Mutual Fund,Moderate Preference,7,mutual_fund
+40,Debentures,5.0,Debenture,Moderate Preference,7,debenture
+40,Gold,6.0,Gold,Low Preference,7,gold
+40,Government_Bonds,7.0,Government Bond,Lowest Preference,7,government_bond

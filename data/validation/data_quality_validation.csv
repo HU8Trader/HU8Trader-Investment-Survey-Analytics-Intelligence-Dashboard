@@ -1,0 +1,4 @@
+﻿Validation_Area,Check_Name,Status,Message,Actual_Value,Expected_Value
+Data Quality,Missing Respondent IDs,PASS,No missing respondent IDs.,0,0
+Data Quality,Missing Investment Respondent IDs,PASS,No missing investment respondent IDs.,0,0
+Data Quality,Missing Investment Types,PASS,No missing investment types.,0,0

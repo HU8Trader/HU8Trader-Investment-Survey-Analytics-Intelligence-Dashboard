@@ -1,0 +1,15 @@
+﻿Gender,Investment_Type,Unique_Respondents,Average_Preference_Rank,Segment_Preference_Rank
+Female,Debenture,15,5.2,6
+Female,Equity,15,3.33,3
+Female,Fixed Deposit,15,4.2,4
+Female,Gold,15,5.87,7
+Female,Government Bond,15,4.33,5
+Female,Mutual Fund,15,2.73,2
+Female,PPF,15,2.33,1
+Male,Debenture,25,6.08,7
+Male,Equity,25,3.56,4
+Male,Fixed Deposit,25,3.2,3
+Male,Gold,25,6.04,6
+Male,Government Bond,25,4.84,5
+Male,Mutual Fund,25,2.44,2
+Male,PPF,25,1.84,1

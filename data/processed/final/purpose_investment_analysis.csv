@@ -1,0 +1,22 @@
+﻿Investment_Purpose,Investment_Type,Unique_Respondents,Average_Preference_Rank,Category_Preference_Rank
+Returns,Debenture,2,4.5,4
+Returns,Equity,2,3.5,2
+Returns,Fixed Deposit,2,4.0,3
+Returns,Gold,2,6.5,5
+Returns,Government Bond,2,3.0,1
+Returns,Mutual Fund,2,3.5,2
+Returns,PPF,2,3.0,1
+Savings for Future,Debenture,6,6.17,7
+Savings for Future,Equity,6,3.5,4
+Savings for Future,Fixed Deposit,6,3.17,3
+Savings for Future,Gold,6,5.67,6
+Savings for Future,Government Bond,6,5.17,5
+Savings for Future,Mutual Fund,6,2.33,2
+Savings for Future,PPF,6,2.0,1
+Wealth Creation,Debenture,32,5.75,6
+Wealth Creation,Equity,32,3.47,3
+Wealth Creation,Fixed Deposit,32,3.62,4
+Wealth Creation,Gold,32,6.0,7
+Wealth Creation,Government Bond,32,4.66,5
+Wealth Creation,Mutual Fund,32,2.53,2
+Wealth Creation,PPF,32,1.97,1

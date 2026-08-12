@@ -1,0 +1,4 @@
+﻿Validation_Area,Check_Name,Status,Message,Actual_Value,Expected_Value
+Preference,Preference Rank Missing Values,PASS,No missing preference ranks detected.,0,0
+Preference,Preference Rank Range,PASS,All preference ranks are between 1 and 7.,7,1-7
+Preference,Lower Rank Means Stronger Preference,PASS,Investment preference ranking uses ascending average rank.,2.025,5.975

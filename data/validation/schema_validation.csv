@@ -1,0 +1,5 @@
+﻿Validation_Area,Check_Name,Status,Message,Actual_Value,Expected_Value
+Schema,Respondent ID,PASS,Respondent ID column detected.,Respondent_ID,Required
+Schema,Investment Respondent ID,PASS,Investment Respondent ID column detected.,Respondent_ID,Required
+Schema,Investment Type,PASS,Investment Type column detected.,Investment_Type,Required
+Schema,Preference Rank,PASS,Preference Rank column detected.,Preference_Rank,Required

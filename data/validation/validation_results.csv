@@ -1,0 +1,55 @@
+﻿Validation_Area,Check_Name,Status,Message,Actual_Value,Expected_Value
+Schema,Respondent ID,PASS,Respondent ID column detected.,Respondent_ID,Required
+Schema,Investment Respondent ID,PASS,Investment Respondent ID column detected.,Respondent_ID,Required
+Schema,Investment Type,PASS,Investment Type column detected.,Investment_Type,Required
+Schema,Preference Rank,PASS,Preference Rank column detected.,Preference_Rank,Required
+Grain,One Row Per Respondent,PASS,Respondent table maintains one row per respondent.,40,40
+Grain,Investment Table Supports Multiple Rows Per Respondent,PASS,Investment table contains investment-level rows per respondent.,280,>= 40
+Grain,Investment Row Count Is Not Respondent Count,PASS,Investment row count is kept separate from unique respondent count.,280,40
+Grain,Respondent Investment Combinations,PASS,Unique respondent-investment combinations calculated.,280,Informational
+Key Integrity,Investment IDs Match Respondent IDs,PASS,All investment Respondent_ID values exist in respondent data.,0,0
+Key Integrity,Respondents Without Investment Rows,PASS,Every respondent has at least one investment row.,0,0
+Preference,Preference Rank Missing Values,PASS,No missing preference ranks detected.,0,0
+Preference,Preference Rank Range,PASS,All preference ranks are between 1 and 7.,7,1-7
+Preference,Lower Rank Means Stronger Preference,PASS,Investment preference ranking uses ascending average rank.,2.025,5.975
+Business Rule,Expected Return Remains Categorical,PASS,Expected Return values remain categorical ranges rather than artificial numeric averages.,"['20%-30%', '10%-20%', '30%-40%']",Categorical ranges
+Data Quality,Missing Respondent IDs,PASS,No missing respondent IDs.,0,0
+Data Quality,Missing Investment Respondent IDs,PASS,No missing investment respondent IDs.,0,0
+Data Quality,Missing Investment Types,PASS,No missing investment types.,0,0
+Output Files,investment_preference_analysis.csv,PASS,Analysis output loaded successfully.,7,> 0
+Output Files,gender_investment_analysis.csv,PASS,Analysis output loaded successfully.,14,> 0
+Output Files,age_investment_analysis.csv,PASS,Analysis output loaded successfully.,21,> 0
+Output Files,objective_investment_analysis.csv,PASS,Analysis output loaded successfully.,21,> 0
+Output Files,female_investment_preference.csv,PASS,Analysis output loaded successfully.,7,> 0
+Output Files,young_investor_preference.csv,PASS,Analysis output loaded successfully.,7,> 0
+Output Files,bond_preference_analysis.csv,PASS,Analysis output loaded successfully.,11,> 0
+Output Files,gender_preference_gap.csv,PASS,Analysis output loaded successfully.,7,> 0
+Output Files,executive_analytical_insights.csv,PASS,Analysis output loaded successfully.,5,> 0
+Output Files,analytical_recommendations.csv,PASS,Analysis output loaded successfully.,5,> 0
+Output Files,analysis_summary.csv,PASS,Analysis output loaded successfully.,1,> 0
+Output Files,purpose_investment_analysis.csv,PASS,Analysis output loaded successfully.,21,> 0
+Output Files,factor_investment_analysis.csv,PASS,Analysis output loaded successfully.,21,> 0
+Output Files,duration_investment_analysis.csv,PASS,Analysis output loaded successfully.,28,> 0
+Output Files,expected_return_analysis.csv,PASS,Analysis output loaded successfully.,21,> 0
+Output Files,savings_investment_analysis.csv,PASS,Analysis output loaded successfully.,21,> 0
+Output Files,source_investment_analysis.csv,PASS,Analysis output loaded successfully.,28,> 0
+Output Files,monitoring_investment_analysis.csv,PASS,Analysis output loaded successfully.,21,> 0
+Output,Overall Analysis Schema,PASS,Overall analysis contains required columns.,"['Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank', 'Median_Preference_Rank', 'Best_Preference_Rank', 'Worst_Preference_Rank', 'Overall_Preference_Rank']","['Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank', 'Overall_Preference_Rank']"
+Output,Overall Preference Ranking,PASS,Overall preference ranking correctly uses ascending average rank.,Valid,Valid
+Output,Gender Analysis Schema,PASS,Gender analysis contains all required analytical columns.,"['Gender', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']","['Gender', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']"
+Business Rule,Gender Uses Valid Respondent Counts,PASS,Respondent counts are numeric and non-negative.,25,>= 0
+Output,Age Analysis Schema,PASS,Age analysis contains all required analytical columns.,"['Age_Group', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']","['Age_Group', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']"
+Business Rule,Age Uses Valid Respondent Counts,PASS,Respondent counts are numeric and non-negative.,31,>= 0
+Output,Objective Analysis Schema,PASS,Objective analysis contains all required analytical columns.,"['Investment_Objective', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']","['Investment_Objective', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']"
+Business Rule,Objective Uses Valid Respondent Counts,PASS,Respondent counts are numeric and non-negative.,26,>= 0
+Output,Female Preference Ordering,PASS,Female investment preferences are ordered from strongest to weakest.,Ascending,Ascending
+Output,Young Investor Preference Ordering,PASS,Young investor preferences are ordered correctly.,Ascending,Ascending
+Output,Bond Preference Rank Range,PASS,Bond preference ranks are valid.,0,0
+Output,Gender Gap Schema,PASS,Gender gap output contains required metrics.,"['Female_Male_Rank_Gap', 'Absolute_Rank_Gap']","['Female_Male_Rank_Gap', 'Absolute_Rank_Gap']"
+Executive Insight,Insight Schema,PASS,Executive insight structure is valid.,"['Insight_Category', 'Finding', 'Interpretation', 'Priority']","['Insight_Category', 'Finding', 'Interpretation', 'Priority']"
+Executive Insight,Insights Have Analytical Basis,PASS,Executive insights were generated from analytical outputs.,5,> 0
+Recommendation,Recommendation Schema,PASS,Recommendation structure is valid.,"['Recommendation_ID', 'Area', 'Recommendation', 'Business_Rationale', 'Priority']","['Recommendation_ID', 'Area', 'Recommendation', 'Business_Rationale', 'Priority']"
+Recommendation,Recommendation IDs,PASS,Recommendation IDs are unique.,0,0
+Business Questions,Female Gold Question,PASS,Female Gold preference can be evaluated.,Gold available,Gold available
+Business Questions,Young Equity Question,PASS,Young Equity preference can be evaluated.,Equity available,Equity available
+Business Questions,Bond Preference Question,PASS,Bond preference analysis is available for demographic segmentation.,11,> 0

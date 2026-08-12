@@ -1,0 +1,5 @@
+﻿Validation_Area,Check_Name,Status,Message,Actual_Value,Expected_Value
+Grain,One Row Per Respondent,PASS,Respondent table maintains one row per respondent.,40,40
+Grain,Investment Table Supports Multiple Rows Per Respondent,PASS,Investment table contains investment-level rows per respondent.,280,>= 40
+Grain,Investment Row Count Is Not Respondent Count,PASS,Investment row count is kept separate from unique respondent count.,280,40
+Grain,Respondent Investment Combinations,PASS,Unique respondent-investment combinations calculated.,280,Informational

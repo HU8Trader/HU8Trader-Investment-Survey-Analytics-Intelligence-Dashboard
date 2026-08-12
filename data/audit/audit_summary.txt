@@ -1,0 +1,92 @@
+================================================================================
+INVESTMENT SURVEY — DATA AUDIT REPORT
+================================================================================
+
+1. DATASET OVERVIEW
+--------------------------------------------------------------------------------
+Input File: investment.csv
+Rows: 40
+Columns: 24
+Memory Usage: 0.04 MB
+Duplicate Rows: 0
+
+2. COLUMN INVENTORY
+--------------------------------------------------------------------------------
+1. gender
+2. age
+3. Investment_Avenues
+4. Mutual_Funds
+5. Equity_Market
+6. Debentures
+7. Government_Bonds
+8. Fixed_Deposits
+9. PPF
+10. Gold
+11. Stock_Marktet
+12. Factor
+13. Objective
+14. Purpose
+15. Duration
+16. Invest_Monitor
+17. Expect
+18. Avenue
+19. What are your savings objectives?
+20. Reason_Equity
+21. Reason_Mutual
+22. Reason_Bonds
+23. Reason_FD
+24. Source
+
+3. RESPONDENT ANALYSIS
+--------------------------------------------------------------------------------
+{
+    "respondent_id_found": false,
+    "respondent_column": null,
+    "unique_respondents": null,
+    "rows": 40,
+    "duplicate_respondent_rows": null
+}
+
+4. EXPECTED RETURN ANALYSIS
+--------------------------------------------------------------------------------
+[
+    {
+        "column": "Expect",
+        "unique_values": 3,
+        "range_values": [
+            "10%-20%",
+            "20%-30%",
+            "30%-40%"
+        ],
+        "numeric_values_detected": 0
+    }
+]
+
+5. PREFERENCE / RANK ANALYSIS
+--------------------------------------------------------------------------------
+[]
+
+6. UNPIVOT STRUCTURE
+--------------------------------------------------------------------------------
+{
+    "investment_type_found": true,
+    "investment_column": "Avenue",
+    "unique_investment_types": 4,
+    "investment_type_values": [
+        "Equity",
+        "Fixed Deposits",
+        "Mutual Fund",
+        "Public Provident Fund"
+    ],
+    "rows": 40
+}
+
+7. DATA QUALITY ISSUES
+--------------------------------------------------------------------------------
+
+1. [INFO] Expected Return Range
+   Column: Expect
+   Issue: Expected return is stored as text ranges such as 10%-20%, 20%-30%, etc. It should not be averaged directly.
+
+8. CATEGORICAL COLUMN SUMMARY
+--------------------------------------------------------------------------------

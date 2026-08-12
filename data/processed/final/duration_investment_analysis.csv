@@ -1,0 +1,29 @@
+﻿Investment_Duration,Investment_Type,Unique_Respondents,Average_Preference_Rank,Category_Preference_Rank
+1-3 years,Debenture,18,6.0,7
+1-3 years,Equity,18,3.22,3
+1-3 years,Fixed Deposit,18,3.83,4
+1-3 years,Gold,18,5.72,6
+1-3 years,Government Bond,18,4.61,5
+1-3 years,Mutual Fund,18,2.44,2
+1-3 years,PPF,18,2.17,1
+3-5 years,Debenture,19,6.0,6
+3-5 years,Equity,19,4.0,4
+3-5 years,Fixed Deposit,19,3.11,3
+3-5 years,Gold,19,6.16,7
+3-5 years,Government Bond,19,4.68,5
+3-5 years,Mutual Fund,19,2.63,2
+3-5 years,PPF,19,1.42,1
+Less than 1 year,Debenture,2,3.0,3
+Less than 1 year,Equity,2,1.0,1
+Less than 1 year,Fixed Deposit,2,5.0,5
+Less than 1 year,Gold,2,6.0,6
+Less than 1 year,Government Bond,2,6.5,7
+Less than 1 year,Mutual Fund,2,2.0,2
+Less than 1 year,PPF,2,4.5,4
+More than 5 years,Debenture,1,2.0,2
+More than 5 years,Equity,1,3.0,3
+More than 5 years,Fixed Deposit,1,5.0,5
+More than 5 years,Gold,1,7.0,7
+More than 5 years,Government Bond,1,1.0,1
+More than 5 years,Mutual Fund,1,4.0,4
+More than 5 years,PPF,1,6.0,6

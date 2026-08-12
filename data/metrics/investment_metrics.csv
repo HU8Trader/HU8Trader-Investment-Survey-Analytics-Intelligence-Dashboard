@@ -1,0 +1,8 @@
+Investment_Type,Respondent_Count,Average_Preference_Rank,Minimum_Preference_Rank,Maximum_Preference_Rank,Average_Preference_Score,Highest_Preference_Count,Top_3_Preference_Count,Overall_Preference_Rank
+PPF,40,2.025,1.0,6.0,5.975,24,33,1
+Mutual Fund,40,2.55,1.0,7.0,5.45,4,34,2
+Equity,40,3.475,1.0,6.0,4.525,2,19,3
+Fixed Deposit,40,3.575,1.0,7.0,4.425,8,20,4
+Government Bond,40,4.65,1.0,7.0,3.35,1,6,5
+Debenture,40,5.75,1.0,7.0,2.25,1,6,6
+Gold,40,5.975,2.0,7.0,2.025,0,2,7

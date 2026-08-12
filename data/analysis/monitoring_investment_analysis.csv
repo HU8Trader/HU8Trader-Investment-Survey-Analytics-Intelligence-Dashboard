@@ -1,0 +1,22 @@
+﻿Investment_Monitoring_Frequency,Investment_Type,Unique_Respondents,Average_Preference_Rank,Category_Preference_Rank
+Daily,Debenture,4,3.5,3
+Daily,Equity,4,3.25,2
+Daily,Fixed Deposit,4,4.5,4
+Daily,Gold,4,5.25,5
+Daily,Government Bond,4,5.25,5
+Daily,Mutual Fund,4,3.5,3
+Daily,PPF,4,2.75,1
+Monthly,Debenture,29,6.14,7
+Monthly,Equity,29,3.52,4
+Monthly,Fixed Deposit,29,3.41,3
+Monthly,Gold,29,5.93,6
+Monthly,Government Bond,29,4.66,5
+Monthly,Mutual Fund,29,2.52,2
+Monthly,PPF,29,1.83,1
+Weekly,Debenture,7,5.43,6
+Weekly,Equity,7,3.43,3
+Weekly,Fixed Deposit,7,3.71,4
+Weekly,Gold,7,6.57,7
+Weekly,Government Bond,7,4.29,5
+Weekly,Mutual Fund,7,2.14,1
+Weekly,PPF,7,2.43,2

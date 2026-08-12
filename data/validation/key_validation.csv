@@ -1,0 +1,3 @@
+﻿Validation_Area,Check_Name,Status,Message,Actual_Value,Expected_Value
+Key Integrity,Investment IDs Match Respondent IDs,PASS,All investment Respondent_ID values exist in respondent data.,0,0
+Key Integrity,Respondents Without Investment Rows,PASS,Every respondent has at least one investment row.,0,0

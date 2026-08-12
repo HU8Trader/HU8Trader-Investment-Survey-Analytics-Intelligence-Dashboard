@@ -1,0 +1,10 @@
+﻿Validation_Area,Check_Name,Status,Message,Actual_Value,Expected_Value
+Output,Overall Analysis Schema,PASS,Overall analysis contains required columns.,"['Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank', 'Median_Preference_Rank', 'Best_Preference_Rank', 'Worst_Preference_Rank', 'Overall_Preference_Rank']","['Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank', 'Overall_Preference_Rank']"
+Output,Overall Preference Ranking,PASS,Overall preference ranking correctly uses ascending average rank.,Valid,Valid
+Output,Gender Analysis Schema,PASS,Gender analysis contains all required analytical columns.,"['Gender', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']","['Gender', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']"
+Output,Age Analysis Schema,PASS,Age analysis contains all required analytical columns.,"['Age_Group', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']","['Age_Group', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']"
+Output,Objective Analysis Schema,PASS,Objective analysis contains all required analytical columns.,"['Investment_Objective', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']","['Investment_Objective', 'Investment_Type', 'Unique_Respondents', 'Average_Preference_Rank']"
+Output,Female Preference Ordering,PASS,Female investment preferences are ordered from strongest to weakest.,Ascending,Ascending
+Output,Young Investor Preference Ordering,PASS,Young investor preferences are ordered correctly.,Ascending,Ascending
+Output,Bond Preference Rank Range,PASS,Bond preference ranks are valid.,0,0
+Output,Gender Gap Schema,PASS,Gender gap output contains required metrics.,"['Female_Male_Rank_Gap', 'Absolute_Rank_Gap']","['Female_Male_Rank_Gap', 'Absolute_Rank_Gap']"

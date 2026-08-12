@@ -1,0 +1,22 @@
+﻿Age_Group,Investment_Type,Unique_Respondents,Average_Preference_Rank,Segment_Preference_Rank
+25-34,Debenture,31,6.1,7
+25-34,Equity,31,3.61,4
+25-34,Fixed Deposit,31,3.39,3
+25-34,Gold,31,6.03,6
+25-34,Government Bond,31,4.58,5
+25-34,Mutual Fund,31,2.52,2
+25-34,PPF,31,1.77,1
+35-44,Debenture,2,7.0,7
+35-44,Equity,2,4.0,4
+35-44,Fixed Deposit,2,3.0,3
+35-44,Gold,2,6.0,6
+35-44,Government Bond,2,5.0,5
+35-44,Mutual Fund,2,2.0,2
+35-44,PPF,2,1.0,1
+Under 25,Debenture,7,3.86,4
+Under 25,Equity,7,2.71,1
+Under 25,Fixed Deposit,7,4.57,5
+Under 25,Gold,7,5.71,7
+Under 25,Government Bond,7,4.86,6
+Under 25,Mutual Fund,7,2.86,2
+Under 25,PPF,7,3.43,3

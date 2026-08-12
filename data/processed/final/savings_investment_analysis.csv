@@ -1,0 +1,22 @@
+﻿Savings_Objective,Investment_Type,Unique_Respondents,Average_Preference_Rank,Category_Preference_Rank
+Education,Debenture,3,3.33,2
+Education,Equity,3,3.33,2
+Education,Fixed Deposit,3,4.33,3
+Education,Gold,3,6.67,5
+Education,Government Bond,3,3.33,2
+Education,Mutual Fund,3,2.33,1
+Education,PPF,3,4.67,4
+Health Care,Debenture,13,6.15,6
+Health Care,Equity,13,3.46,4
+Health Care,Fixed Deposit,13,3.08,3
+Health Care,Gold,13,6.15,6
+Health Care,Government Bond,13,4.92,5
+Health Care,Mutual Fund,13,2.46,2
+Health Care,PPF,13,1.77,1
+Retirement Plan,Debenture,24,5.83,7
+Retirement Plan,Equity,24,3.5,3
+Retirement Plan,Fixed Deposit,24,3.75,4
+Retirement Plan,Gold,24,5.79,6
+Retirement Plan,Government Bond,24,4.67,5
+Retirement Plan,Mutual Fund,24,2.62,2
+Retirement Plan,PPF,24,1.83,1

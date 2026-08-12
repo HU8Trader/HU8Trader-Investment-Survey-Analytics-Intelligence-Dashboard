@@ -1,0 +1,6 @@
+﻿Recommendation_ID,Area,Recommendation,Business_Rationale,Priority
+REC-001,Product Strategy,Prioritize PPF in investor-facing campaigns because it demonstrates the strongest overall preference.,The recommendation is based on the lowest average preference rank.,High
+REC-002,Female Investor Strategy,Develop targeted communication around PPF for female investor segments.,This investment has the strongest average preference among female respondents.,Medium
+REC-003,Young Investor Strategy,Create digitally focused investment education and marketing around PPF for investors under 30.,This investment has the strongest preference among younger investors.,Medium
+REC-004,Fixed Income Strategy,Identify demographic segments with comparatively stronger bond preference and create targeted fixed-income communication.,Bond preference should be evaluated by segment rather than assuming one universal customer profile.,Medium
+REC-005,Data-Driven Marketing,Use demographic and behavioural segmentation instead of treating all investors as a single customer group.,"Investment preferences can differ by gender, age, objectives and behavioural characteristics.",High

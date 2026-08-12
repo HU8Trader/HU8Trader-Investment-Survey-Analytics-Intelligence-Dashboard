@@ -1,0 +1,22 @@
+﻿Investment_Objective,Investment_Type,Unique_Respondents,Average_Preference_Rank,Segment_Preference_Rank
+Capital Appreciation,Debenture,26,5.85,5
+Capital Appreciation,Equity,26,3.5,3
+Capital Appreciation,Fixed Deposit,26,3.5,3
+Capital Appreciation,Gold,26,6.04,6
+Capital Appreciation,Government Bond,26,4.5,4
+Capital Appreciation,Mutual Fund,26,2.5,2
+Capital Appreciation,PPF,26,2.12,1
+Growth,Debenture,11,6.27,7
+Growth,Equity,11,3.82,4
+Growth,Fixed Deposit,11,3.18,3
+Growth,Gold,11,5.82,6
+Growth,Government Bond,11,4.91,5
+Growth,Mutual Fund,11,2.55,2
+Growth,PPF,11,1.45,1
+Income,Debenture,3,3.0,2
+Income,Equity,3,2.0,1
+Income,Fixed Deposit,3,5.67,5
+Income,Gold,3,6.0,6
+Income,Government Bond,3,5.0,4
+Income,Mutual Fund,3,3.0,2
+Income,PPF,3,3.33,3
